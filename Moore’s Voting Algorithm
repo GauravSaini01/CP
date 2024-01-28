@@ -30,7 +30,7 @@ int main(){
     }
   }
   if(ct1>n/2){
-    cout<<ans;
+    cout<<ans<<"\n";
   }
   return 0;
 }
